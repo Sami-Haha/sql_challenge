@@ -34,3 +34,8 @@ Note: for tables with auto generated PKs deslected that column as part of import
 -- Query 7 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 -- Query 8 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+# NOTES
+QuickDBD tool was used to create the ERD and as basis for table creation.  
+PG Admin docs consulted for error handling on import fail. 
+All other content from course notes.
